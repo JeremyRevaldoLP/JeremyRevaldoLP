@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Computer Science student at **Halu Oleo University** (GPA: 3.60/4.00), building things across the stack — from semantic web apps and desktop systems to carbon footprint calculators and hotel booking platforms. I enjoy turning ideas into working software, whether it's a clean UI, a well-structured backend, or a system that actually solves a real problem.
+Computer Science student at **Halu Oleo University**, building things across the stack — from semantic web apps and desktop systems to carbon footprint calculators and hotel booking platforms. I enjoy turning ideas into working software, whether it's a clean UI, a well-structured backend, or a system that actually solves a real problem.
 
 Beyond academics, I've had hands-on experience through an internship at the **Dinas Komunikasi dan Informatika Kota Kendari**, and I actively participate in tech talks and training programs focused on AI and the future of the industry.
 
@@ -70,7 +70,7 @@ Beyond academics, I've had hands-on experience through an internship at the **Di
 ## 🎓 Education & Experience
 
 **🏛️ Halu Oleo University** — S1 Computer Science *(2023 – present)*
-GPA: 3.60 / 4.00 · Student ID: F1G123046 · Kendari, Sulawesi Tenggara
+· Student ID: F1G123046 · Kendari, Sulawesi Tenggara
 
 Notable coursework: Object-Oriented Programming, Semantic Web, Software Engineering, Database Systems
 
