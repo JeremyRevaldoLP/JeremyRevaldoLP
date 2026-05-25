@@ -3,7 +3,7 @@
 **Computer Science Student · Software Developer**
 
 [![Email](https://img.shields.io/badge/Email-jeremyrevaldo0000%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeremyrevaldo0000@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy%20Revaldo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-revaldo-a86542410)
 [![University](https://img.shields.io/badge/Halu%20Oleo%20University-Computer%20Science-005BAC?style=for-the-badge&logo=graduation-cap&logoColor=white)](#)
 
 ---
